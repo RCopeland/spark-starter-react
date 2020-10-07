@@ -24,3 +24,4 @@ yarn-error.log*
 
 # editor config
 .idea
+.vscode
